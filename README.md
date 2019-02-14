@@ -2,13 +2,9 @@
 
 # Sentiment Annotation Guidelines
 
-This repository contains:
- 
-- RuSentiment dataset for sentiment analysis of Russian social media;
+This repository contains our guidelines for annotation of sentiment in social media. There are two versions, one with examples in Russian (VKontakte social network) and one with English examples from Twitter. The guidelines were prepared as part of [RuSentiment project](http://text-machine.cs.uml.edu/projects/rusentiment/) by [Text Machine Lab for NLP](http://text-machine.cs.uml.edu). 
 
-- guidelines for annotation of sentiment in social media, with which RuSentiment was produced. There are two versions, one with examples in Russian (VKontakte social network) and one with English examples from Twitter. The guidelines were prepared as part of [RuSentiment project](http://text-machine.cs.uml.edu/projects/rusentiment/) by [Text Machine Lab for NLP](http://text-machine.cs.uml.edu). 
-
-Both RuSentiment and the guidelines are available for non-commercial use.
+RuSentiment dataset that was presented in the paper is no longer included in this repo due to request from VKontakte.
 
 Project page: http://text-machine.cs.uml.edu/projects/rusentiment/
 
